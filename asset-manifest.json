@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pgm-homework2-deployment-code/static/css/main.073c9b0a.css",
+    "main.js": "/pgm-homework2-deployment-code/static/js/main.2705dfc7.js",
+    "static/js/787.b0e29ad6.chunk.js": "/pgm-homework2-deployment-code/static/js/787.b0e29ad6.chunk.js",
+    "index.html": "/pgm-homework2-deployment-code/index.html",
+    "main.073c9b0a.css.map": "/pgm-homework2-deployment-code/static/css/main.073c9b0a.css.map",
+    "main.2705dfc7.js.map": "/pgm-homework2-deployment-code/static/js/main.2705dfc7.js.map",
+    "787.b0e29ad6.chunk.js.map": "/pgm-homework2-deployment-code/static/js/787.b0e29ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2705dfc7.js"
+  ]
+}
